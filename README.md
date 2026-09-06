@@ -174,9 +174,9 @@ transformer-translator/
 ## Веса модели
 
 Для работы необходимы следующие файлы:
-1. **`best_seq2seq_model_transformer.pt`** — веса модели (полный чекпоинт с config).
-2. **`english_bpe_tokenizer.pkl`** — BPE-токенизатор для английского языка.
-3. **`russian_bpe_tokenizer.pkl`** — BPE-токенизатор для русского языка.
+1. **`best_seq2seq_model_transformer.pt`** - веса модели (полный чекпоинт с config).
+2. **`english_bpe_tokenizer.pkl`** - BPE-токенизатор для английского языка.
+3. **`russian_bpe_tokenizer.pkl`** - BPE-токенизатор для русского языка.
 
 **Ссылки для скачивания:**
 [Веса и BPE-токенизаторы](https://drive.google.com/drive/folders/1zE077T69BIF5fhroV4O-tw6jlar-Wdcp?usp=sharing)
