@@ -1,4 +1,4 @@
-# Transformer Translator — Нейронный перевод с английского на русский
+# Transformer Translator - Нейронный перевод с английского на русский
 
 > **Реализация Transformer с нуля на PyTorch для перевода с английского на русский(своя реализация BPE-токенизации и позиционных эмбеддингов). Архитектура: Positional Embedding, Multi-Head Self-Attention, Feed-Forward, Noam-планировщик. Обучена на датасете ManyThings (536k пар). Достигает BLEU 0.45 на тестовой выборке.**
 
